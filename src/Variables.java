@@ -71,7 +71,7 @@ public class Variables {
                 int table = 5;
                 int roundedInValue = (int) fractionalValue;
                 System.out.println("Original Fractional Value: " + fractionalValue);
-                System.out.println("Rounded Integer Value: " + roundedIntValue);
+                System.out.println("Rounded Integer Value: " + roundedInValue);
 
                 // Task 6)  Create an int variable and assign the ‘age’ value to it. Check if
                 //age is greater than or equal to 18 and assign the test result (true or false) to a boolean
